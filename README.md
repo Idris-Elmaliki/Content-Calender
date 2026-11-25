@@ -44,5 +44,5 @@ Here is also a collection of all my notes for Spring Boot:
 3. [_Building a Rest API_](https://docs.google.com/document/d/1YwtkLevgYnnNf4MkwrIeQi2zy6A7BzQ2l89qHWNTSa4/edit?usp=sharing)
 4. [_Using a Rest API_](https://docs.google.com/document/d/1wsZJc6j-9mdk2d5CahxYMllHd4gF4-8lBzSN4dUTVjs/edit?usp=sharing)
 5. [_Data Validation in Spring Boot_](https://docs.google.com/document/d/1_ZK_R_hxhNzk3EI-nDO216NY6O7loaQo45gu37CsYgU/edit?usp=sharing)
-6. [_Connecting to a Database_](https://docs.google.com/document/d/1kWYRGEWheWth757jw9tVRWDnUGO2qR-Httg5FxSRf-U/edit?usp=sharing)
+6. [_Databases and Spring Data_](https://docs.google.com/document/d/1kWYRGEWheWth757jw9tVRWDnUGO2qR-Httg5FxSRf-U/edit?usp=sharing)
  
